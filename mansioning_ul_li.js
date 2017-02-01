@@ -1,10 +1,10 @@
 
 define(['jquery','mansioning'],function($,mansioning){
 	$(function(){
-		var resizer = function(){
+		var mansioning_ul_li = function(){
 			mansioning($("#mansionable-list"),"7px");
 		};
-		resizer();
-		$(window).resize(resizer);
+		mansioning_ul_li();
+		$(window).resize(mansioning_ul_li);
 	});
 });
