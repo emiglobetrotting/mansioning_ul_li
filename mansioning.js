@@ -10,8 +10,8 @@ define(['jquery','strippx','split_into_2d','find_row_max_h'],function($,strippx,
 		$li_list = $list.children();
 		$li_list.each(function(){
 			$li = $(this);
-			$lis.push($li);
 			$li.css("margin-top",$top_in_px);
+			$lis.push($li);
 		});
 		$list.css("width","100%");
 		$li_top = strippx($lis[0].css("margin-top"));
