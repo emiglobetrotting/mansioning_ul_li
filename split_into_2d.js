@@ -1,5 +1,5 @@
 
-define(['jquery','strippx'],function($,strippx){
+define(['strippx'],function(strippx){
 	var split_into_2d = function(list,col_size){
 		var i = 0,
 		j = 0,
