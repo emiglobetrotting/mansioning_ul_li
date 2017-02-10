@@ -14,4 +14,4 @@ require.config({
     ]
   }
 });
-require(['fix']);
+require(['mansioning_ul_li']);
