@@ -55,6 +55,6 @@
             </li>
          </ul>
      </div>
-		<script data-main="main" src="require.js"></script>
+		<script data-main="js/main" src="js/require.js"></script>
  </body>
 </html>
