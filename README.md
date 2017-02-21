@@ -6,4 +6,3 @@ This is a simple requirejs project that solves the challenge to fill available s
 
 mansioning($("#mansionable-list"),"10px"); 
 
-Checkout mansioning_ul_li.js to see how it works
