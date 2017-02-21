@@ -4,7 +4,7 @@ E-mail: emiglobetrotting@yahoo.co.uk
 */
 define(['jquery','strippx','split_into_2d','find_row_max_h'],function($,strippx,split_into_2d,find_row_max_h){
 	
-	var mansioning = function($mainlist,$top_in_px){
+	var masonry = function($mainlist,$top_in_px){
 		$list = $mainlist;
 		$lis = [];
 		$li_list = $list.children();
@@ -68,5 +68,5 @@ define(['jquery','strippx','split_into_2d','find_row_max_h'],function($,strippx,
 		};
 		resizer();
 	};
-	return mansioning;
+	return masonry;
 });
