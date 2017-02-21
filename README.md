@@ -1,8 +1,8 @@
-# mansioning_ul_li
+# masonry_ul_li
 
-This is a simple requirejs project that solves the challenge to fill available space between ul li list elements with Unequal height boxes in columns.
+Masonry is a Requirejs layout library. It works by filling the vertical space between ul li list elements, sort of like a mason fitting stones in a wall. You’ve probably seen it in use all over the Internet.
 
 # How to use
 
-mansioning($("#mansionable-list"),"10px"); 
+masonry($("#masonry-list-id"),"10px"); 
 
