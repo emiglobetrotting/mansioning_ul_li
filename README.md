@@ -4,5 +4,5 @@ Masonry is a Requirejs layout library. It works by filling the vertical space be
 
 # How to use
 
-masonry($("#masonry-list-id"),"10px"); 
+masonry($("#mansionable-list"),"10px"); 
 
