@@ -6,5 +6,5 @@ require.config({
     ]
   }
 });
-require(['mansioning_ul_li'],function(mansioning_ul_li){
+require(['masonry_ul_li'],function(masonry_ul_li){
 });
